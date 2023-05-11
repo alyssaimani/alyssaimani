@@ -6,6 +6,7 @@ I am a student of Computer Science and Mathematics, who have keen interest in th
 ## My Projects
 ### Deep Learning-Based Approach on sgRNA Off-Target Prediction in CRISPR/Cas9 🧬
 This project is intended for study of implementing deep learning to a binary classification of sgRNA off-target prediction. Five different models were compared in this study to get the best performance in classification prediction for off-target sgRNA. All models implement Word2Vec embedding to get better feature vector representation compared to the traditional one-hot encoding method. The five models were constructed by different RNN models: biLSTM, LSTM, GRU, biGRU and without RNN Layer (NoRNN). Each model was trained with a learning rate default of Adam optimizer 0.001 and tested with two different datasets: HEK293T dataset and K562 Dataset.
+
 [Paper](https://binusianorg-my.sharepoint.com/personal/alyssa_imani_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0fa3a7f195ebf46389d9fbe549cf21e94&authkey=Ae0WPMrh_KNx03mEelJ7T1U&e=TDfJ2j) for this This project has been published on IEEE and presented on ICCoSITE Conference 2023
 Check this [repository](https://github.com/alyssaimani/Deep-Learning-CRISPR-Model) for full project
 ### Fine-Tuning of Transformers Model for Prediction Bioactivity of Alzheimer’s Drug Candidates 💊
