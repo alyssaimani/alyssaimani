@@ -1,7 +1,21 @@
 ### Hi there👋🏻, I'm Alyssa 💻🎨🖌️
 
 ## About Me
-I am a student of Computer Science and Mathematics, who have keen interest in the fields of bioinformatics and data science. I am experienced working with Python, Java, and SQL. I have done study _insilico_ analysis for CRISPR, drug discovery and genome mutation detection. My latest research project is a "Deep Learning-Based Approach on sgRNA Off-Target Prediction in CRISPR/Cas9", published at the ICCOSITE 2023 conference. I currently working on "Fine-Tuning of Transformers Model for Prediction Bioactivity of Alzheimer’s Drug Candidates". I am passionate about applying my skills to develop novel bioinformatics tools and analysis methods to contribute to the industry. Currently seeking internship opportunities to gain hands-on experience and further develop my skills in bioinformatics.
+I am a student of Computer Science and Mathematics, who have keen interest in the fields of bioinformatics and data science. I am experienced in working with Python, Java, and SQL. I have done study _insilico_ analysis deep learning for CRISPR and drug discovery. My latest research project is a "Deep Learning-Based Approach on sgRNA Off-Target Prediction in CRISPR/Cas9", published at the ICCOSITE 2023 conference. I currently working on "Fine-Tuning of Transformers Model for Prediction Bioactivity of Alzheimer’s Drug Candidates". I am passionate about applying my skills to develop novel bioinformatics tools and analysis methods to contribute to the industry. Currently seeking internship opportunities to gain hands-on experience and further develop my skills in bioinformatics.
+
+### Programming Language
+- Python
+- Java
+- SQL
+- C
+- HTML/CSS/JS
+
+### Tools
+- git
+- AWS
+- Docker
+- tableu
+- mathlab
 
 ## My Projects
 ### Deep Learning-Based Approach on sgRNA Off-Target Prediction in CRISPR/Cas9 🧬
@@ -9,7 +23,7 @@ This project is intended for study of implementing deep learning to a binary cla
 
 [Paper](https://binusianorg-my.sharepoint.com/personal/alyssa_imani_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0fa3a7f195ebf46389d9fbe549cf21e94&authkey=Ae0WPMrh_KNx03mEelJ7T1U&e=TDfJ2j) for this project has been published on IEEE and presented on ICCoSITE Conference 2023
 
-Check this [repository](https://github.com/alyssaimani/Deep-Learning-CRISPR-Model) for full project
+Check this [repository](https://github.com/alyssaimani/Deep-Learning-CRISPR-Model) for the full project
 ### Fine-Tuning of Transformers Model for Prediction Bioactivity of Alzheimer’s Drug Candidates 💊
 The work of this project aims to study the application of machine learning in the field of bioinformatics, especially Drug Discovery.
 This project was created by following a tutorial from [Chanin Nantasenamat](https://github.com/dataprofessor). 
@@ -17,4 +31,4 @@ Then this project continued for the Natural Language Processing coursework at Bi
 
 **Paper still on progress
 
-Check this [repository](https://github.com/alyssaimani/Drug_Discovery_Acetylcholinesterase) for full project
+Check this [repository](https://github.com/alyssaimani/Drug_Discovery_Acetylcholinesterase) for the full project
