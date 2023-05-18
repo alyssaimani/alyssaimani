@@ -1,7 +1,7 @@
 ### Hi there👋🏻, I'm Alyssa 👩🏻‍💻🖌️
 
 ## About Me
-I am a student of Computer Science and Mathematics, who have keen interest in the fields of bioinformatics and data science. I am experienced in working with Python, Java, and SQL. I have done study _insilico_ analysis deep learning for CRISPR and drug discovery. My latest research project is a "Deep Learning-Based Approach on sgRNA Off-Target Prediction in CRISPR/Cas9", published at the ICCOSITE 2023 conference. I currently working on "Fine-Tuning of Transformers Model for Prediction Bioactivity of Alzheimer’s Drug Candidates". I am passionate about applying my skills to develop novel bioinformatics tools and analysis methods to contribute to the industry. Currently seeking internship opportunities to gain hands-on experience and further develop my skills in bioinformatics.
+I am a student of Computer Science and Mathematics at Binus University, who have keen interest in the fields of bioinformatics and data science. I am experienced in working with Python, Java, and SQL. I have done study _in_ _silico_ analysis deep learning for CRISPR and drug discovery. My latest research project is a "Deep Learning-Based Approach on sgRNA Off-Target Prediction in CRISPR/Cas9", published at the ICCOSITE 2023 conference. I currently working on "Fine-Tuning Transformers Model for Prediction Bioactivity of Alzheimer’s Drug Candidates". I am passionate about applying my skills to develop novel bioinformatics tools and analysis methods to contribute to the industry. Currently seeking internship opportunities to gain hands-on experience and further develop my skills in bioinformatics.
 
 ### Programming Languages
 - Python
