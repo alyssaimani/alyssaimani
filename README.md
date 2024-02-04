@@ -1,4 +1,4 @@
-### Hi there, Welcome to my Github Repository 👋🏻
+### Hi there, welcome to my GitHub Repository 👋🏻
 
 ## My Projects
 ### Deep Learning-Based Approach on sgRNA Off-Target Prediction in CRISPR/Cas9 🧬
